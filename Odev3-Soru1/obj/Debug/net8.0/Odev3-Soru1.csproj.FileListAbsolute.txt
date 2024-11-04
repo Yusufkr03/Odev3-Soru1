@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\Odev3-Soru1\obj\Debug\net8.0\Odev3-Soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Odev3-Soru1\obj\Debug\net8.0\Odev3-Soru1.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Odev3-Soru1\obj\Debug\net8.0\Odev3-Soru1.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Odev3-Soru1\obj\Debug\net8.0\Odev3-Soru1.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Odev3-Soru1\bin\Debug\net8.0\Odev3-Soru1.exe
+C:\Users\yusuf\source\repos\Odev3-Soru1\bin\Debug\net8.0\Odev3-Soru1.deps.json
+C:\Users\yusuf\source\repos\Odev3-Soru1\bin\Debug\net8.0\Odev3-Soru1.runtimeconfig.json
+C:\Users\yusuf\source\repos\Odev3-Soru1\bin\Debug\net8.0\Odev3-Soru1.dll
+C:\Users\yusuf\source\repos\Odev3-Soru1\bin\Debug\net8.0\Odev3-Soru1.pdb
+C:\Users\yusuf\source\repos\Odev3-Soru1\obj\Debug\net8.0\Odev3-Soru1.dll
+C:\Users\yusuf\source\repos\Odev3-Soru1\obj\Debug\net8.0\refint\Odev3-Soru1.dll
+C:\Users\yusuf\source\repos\Odev3-Soru1\obj\Debug\net8.0\Odev3-Soru1.pdb
+C:\Users\yusuf\source\repos\Odev3-Soru1\obj\Debug\net8.0\Odev3-Soru1.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\Odev3-Soru1\obj\Debug\net8.0\ref\Odev3-Soru1.dll
